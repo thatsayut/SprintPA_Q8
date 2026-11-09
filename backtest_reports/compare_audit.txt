@@ -1,0 +1,22 @@
+﻿Q7_4y final=12642.02
+period  EA                     trades   return   wr     PF    maxDD  below-start worst-day  neg-months  check
+1y      SprintPA Q7 D3         NO DATA
+1y      KRV Donchian20 (H1)    NO DATA
+1y      BreakoutFollow (M15)   NO DATA
+
+2y      SprintPA Q7 D3         NO DATA
+2y      KRV Donchian20 (H1)    NO DATA
+2y      BreakoutFollow (M15)   NO DATA
+
+3y      SprintPA Q7 D3         NO DATA
+3y      KRV Donchian20 (H1)    NO DATA
+3y      BreakoutFollow (M15)   NO DATA
+
+4y      SprintPA Q7 D3           353   +26.42%  50.7%  1.20   9.79%    7.26%     1.88%     18/48    OK
+4y      KRV Donchian20 (H1)    NO DATA
+4y      BreakoutFollow (M15)   NO DATA
+
+FTMO 2-Step Phase 1 simulation (4y run, start every trading day, +10% target, -5% day, -10% total)
+EA                      no-limit: pass  fail  open  median-days | within 60 days: pass  fail
+SprintPA Q7 D3           92.9%   0.0%   7.1%  315.0     |   1.1%   0.0%
+
